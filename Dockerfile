@@ -1,3 +1,3 @@
-FROM python:3.7
+FROM nginx:alpine
 
 ADD . /var/www/html
